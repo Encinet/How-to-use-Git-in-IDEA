@@ -1,8 +1,4 @@
----
-coverY: 0
----
-
-# 教程
+# IDEA简单的git教程
 
 ## 安装git
 
@@ -44,6 +40,6 @@ git clone <Clone地址>
 
 <figure><img src=".gitbook/assets/QQ图片20230201210730.png" alt=""><figcaption></figcaption></figure>
 
-这两个的区别我也不太清楚，但我选的一直都是第一个
+一般选择第二个
 
 <figure><img src=".gitbook/assets/QQ图片20230201210742.png" alt=""><figcaption></figcaption></figure>
